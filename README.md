@@ -1,5 +1,5 @@
 # SimplificaIA
-# 📱 SimplificaIA - MVP Completo
+# 📱 SimplificaIA
 
 > Aplicação mobile para simplificação de textos usando IA (Gemini)
 
