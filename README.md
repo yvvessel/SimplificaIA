@@ -102,7 +102,7 @@ SimplificaIA/
 │   │   │   └── LevelSelector.tsx # Seletor de nível
 │   │   └── services/
 │   │       ├── api.ts           # HTTP client
-│   │       └── storage.ts       # AsyncStorage
+│   │       └── storage.ts       http://127.0.0.1:37247/signin?nonce=FFQQBpDsipmRx9QI7QAsdw==# AsyncStorage
 │   ├── App.tsx                  # Navigation
 │   ├── .env.example
 │   └── package.json
