@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# SimplificaIA
 # 📱 SimplificaIA - MVP Completo
 
 > Aplicação mobile para simplificação de textos usando IA (Gemini)
@@ -113,22 +113,6 @@ SimplificaIA/
 
 ---
 
-## 🔒 Segurança
-
-### Dados Sensíveis
-⚠️ **NUNCA compartilhe:**
-- `.env` (contém GEMINI_API_KEY)
-- `cache.db` e `usage.db`
-- Credenciais de API
-
-✅ **Sim, compartilhe:**
-- `.env.example` (template)
-- `.gitignore`
-- Código fonte
-
-Veja [SECURITY.md](./SECURITY.md) para detalhes.
-
----
 
 ## 📊 API Endpoints
 
@@ -310,6 +294,3 @@ Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 ---
 
 **Desenvolvido com ❤️ para acessibilidade**
-=======
-# SimplificaIA
->>>>>>> 760dac892c69ca2e3dc936c38581500f522e0036
