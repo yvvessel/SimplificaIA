@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 SimplificaIA - MVP Completo
 
 > Aplicação mobile para simplificação de textos usando IA (Gemini)
@@ -309,3 +310,6 @@ Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 ---
 
 **Desenvolvido com ❤️ para acessibilidade**
+=======
+# SimplificaIA
+>>>>>>> 760dac892c69ca2e3dc936c38581500f522e0036
