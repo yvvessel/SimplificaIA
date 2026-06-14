@@ -274,23 +274,3 @@ eas submit -p android
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
-
----
-
-## 📞 Suporte
-
-- 📧 Email: support@simplificaia.com
-- 🐛 Issues: GitHub Issues
-- 💬 Discussões: GitHub Discussions
-
----
-
-## 👏 Agradecimentos
-
-- Google por Gemini API
-- Expo por React Native
-- FastAPI by Starlite Labs
-
----
-
-**Desenvolvido com ❤️ para acessibilidade**
